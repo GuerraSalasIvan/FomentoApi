@@ -1,0 +1,2465 @@
+[
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2024-03-05T08:08:44.433Z",
+        "user": 1,
+        "content_type": 3,
+        "object_id": "1",
+        "object_repr": "admin",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2024-03-05T08:10:13.038Z",
+        "user": 1,
+        "content_type": 3,
+        "object_id": "2",
+        "object_repr": "entrenador",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2024-03-05T08:10:50.357Z",
+        "user": 1,
+        "content_type": 3,
+        "object_id": "3",
+        "object_repr": "cliente",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2024-03-05T08:11:02.702Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "1",
+        "object_repr": "2ªReg",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2024-03-05T08:11:07.063Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "2",
+        "object_repr": "1ºReg",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2024-03-05T08:11:10.848Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "3",
+        "object_repr": "DivHonor",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2024-03-05T08:11:14.600Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "4",
+        "object_repr": "Nacional",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2024-03-05T08:11:20.621Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "5",
+        "object_repr": "---",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2024-03-05T08:12:46.824Z",
+        "user": 1,
+        "content_type": 6,
+        "object_id": "2",
+        "object_repr": "IvanGuerra",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2024-03-05T08:13:06.174Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "1",
+        "object_repr": "Ivan",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2024-03-05T08:13:55.743Z",
+        "user": 1,
+        "content_type": 6,
+        "object_id": "3",
+        "object_repr": "Lebron",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2024-03-05T08:14:33.477Z",
+        "user": 1,
+        "content_type": 6,
+        "object_id": "4",
+        "object_repr": "jugador1",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2024-03-05T08:14:57.626Z",
+        "user": 1,
+        "content_type": 6,
+        "object_id": "5",
+        "object_repr": "jugador2",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2024-03-05T08:15:23.461Z",
+        "user": 1,
+        "content_type": 6,
+        "object_id": "6",
+        "object_repr": "jugador3",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2024-03-05T08:15:37.509Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "2",
+        "object_repr": "Alejandor",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2024-03-05T08:15:58.815Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "3",
+        "object_repr": "jugador",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2024-03-05T08:16:19.373Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "4",
+        "object_repr": "jugador",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2024-03-05T08:16:36.590Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "5",
+        "object_repr": "jugador",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2024-03-05T08:18:41.822Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "Futbol",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2024-03-05T08:18:45.158Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "2",
+        "object_repr": "Baloncesto",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2024-03-05T08:18:48.691Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "3",
+        "object_repr": "Padel",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2024-03-05T08:18:52.490Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "4",
+        "object_repr": "Sin especificar",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2024-03-05T08:21:31.950Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Blanco",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2024-03-05T08:21:35.460Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Negro",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2024-03-05T08:21:37.761Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "3",
+        "object_repr": "Amarillo",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2024-03-05T08:21:39.758Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "4",
+        "object_repr": "Rojo",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2024-03-05T08:21:41.828Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "5",
+        "object_repr": "Azul",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2024-03-05T08:21:43.842Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "6",
+        "object_repr": "Rosa",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2024-03-05T08:21:46.016Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "7",
+        "object_repr": "Morado",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2024-03-05T08:21:48.389Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "8",
+        "object_repr": "Verde",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2024-03-05T08:21:51.201Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "9",
+        "object_repr": "Gris",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2024-03-05T08:21:53.551Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "10",
+        "object_repr": "Marron",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2024-03-05T08:21:57.493Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "11",
+        "object_repr": "Naranja",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2024-03-05T08:21:59.873Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "12",
+        "object_repr": "---",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2024-03-05T08:22:44.351Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "1",
+        "object_repr": "Maria Zambrano Rosa (BSK)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2024-03-05T08:23:09.982Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "2",
+        "object_repr": "Maria Zambrano Azul (BSK)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2024-03-05T08:23:39.775Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "3",
+        "object_repr": "Maria Zambrano Negro (BSK)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+        "action_time": "2024-03-05T08:24:15.717Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "4",
+        "object_repr": "Maria Zambrano Fem (BSK)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+        "action_time": "2024-03-05T08:26:20.889Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "1",
+        "object_repr": "Rel_Usu_Equi object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+        "action_time": "2024-03-05T08:26:28.953Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "2",
+        "object_repr": "Rel_Usu_Equi object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+        "action_time": "2024-03-05T08:26:34.233Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "3",
+        "object_repr": "Rel_Usu_Equi object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+        "action_time": "2024-03-05T08:26:40.721Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "4",
+        "object_repr": "Rel_Usu_Equi object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+        "action_time": "2024-03-05T08:26:49.350Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "5",
+        "object_repr": "Rel_Usu_Equi object (5)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+        "action_time": "2024-03-05T08:26:53.952Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "6",
+        "object_repr": "Rel_Usu_Equi object (6)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+        "action_time": "2024-03-05T08:28:23.763Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "1",
+        "object_repr": "Pabellon Poligono Sur  (C. Reina de la Paz)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+        "action_time": "2024-03-05T08:29:44.141Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "2",
+        "object_repr": "Infantas  (C. Luis Cernuda)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+        "action_time": "2024-03-05T08:29:48.529Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "1",
+        "object_repr": "Pabellon Poligono Sur  (C. Reina de la Paz)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Deporte\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+        "action_time": "2024-03-05T08:30:51.050Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "3",
+        "object_repr": "Complejo Deportivo Municipal de Ramón y Cajal  (C. Tirso de Molina)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+        "action_time": "2024-03-05T08:31:20.120Z",
+        "user": 1,
+        "content_type": 20,
+        "object_id": "1",
+        "object_repr": "Detalles_Ubicacion object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+        "action_time": "2024-03-05T08:31:26.976Z",
+        "user": 1,
+        "content_type": 20,
+        "object_id": "2",
+        "object_repr": "Detalles_Ubicacion object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+        "action_time": "2024-03-05T08:31:31.581Z",
+        "user": 1,
+        "content_type": 20,
+        "object_id": "3",
+        "object_repr": "Detalles_Ubicacion object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+        "name": "Can add log entry",
+        "content_type": 1,
+        "codename": "add_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+        "name": "Can change log entry",
+        "content_type": 1,
+        "codename": "change_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+        "name": "Can delete log entry",
+        "content_type": 1,
+        "codename": "delete_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+        "name": "Can view log entry",
+        "content_type": 1,
+        "codename": "view_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+        "name": "Can add permission",
+        "content_type": 2,
+        "codename": "add_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+        "name": "Can change permission",
+        "content_type": 2,
+        "codename": "change_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+        "name": "Can delete permission",
+        "content_type": 2,
+        "codename": "delete_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+        "name": "Can view permission",
+        "content_type": 2,
+        "codename": "view_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+        "name": "Can add group",
+        "content_type": 3,
+        "codename": "add_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+        "name": "Can change group",
+        "content_type": 3,
+        "codename": "change_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+        "name": "Can delete group",
+        "content_type": 3,
+        "codename": "delete_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+        "name": "Can view group",
+        "content_type": 3,
+        "codename": "view_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+        "name": "Can add content type",
+        "content_type": 4,
+        "codename": "add_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+        "name": "Can change content type",
+        "content_type": 4,
+        "codename": "change_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+        "name": "Can delete content type",
+        "content_type": 4,
+        "codename": "delete_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+        "name": "Can view content type",
+        "content_type": 4,
+        "codename": "view_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+        "name": "Can add session",
+        "content_type": 5,
+        "codename": "add_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+        "name": "Can change session",
+        "content_type": 5,
+        "codename": "change_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+        "name": "Can delete session",
+        "content_type": 5,
+        "codename": "delete_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+        "name": "Can view session",
+        "content_type": 5,
+        "codename": "view_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+        "name": "Can add user",
+        "content_type": 6,
+        "codename": "add_userlogin"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+        "name": "Can change user",
+        "content_type": 6,
+        "codename": "change_userlogin"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+        "name": "Can delete user",
+        "content_type": 6,
+        "codename": "delete_userlogin"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+        "name": "Can view user",
+        "content_type": 6,
+        "codename": "view_userlogin"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+        "name": "Can add colores",
+        "content_type": 7,
+        "codename": "add_colores"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+        "name": "Can change colores",
+        "content_type": 7,
+        "codename": "change_colores"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+        "name": "Can delete colores",
+        "content_type": 7,
+        "codename": "delete_colores"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+        "name": "Can view colores",
+        "content_type": 7,
+        "codename": "view_colores"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+        "name": "Can add deportes",
+        "content_type": 8,
+        "codename": "add_deportes"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+        "name": "Can change deportes",
+        "content_type": 8,
+        "codename": "change_deportes"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+        "name": "Can delete deportes",
+        "content_type": 8,
+        "codename": "delete_deportes"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+        "name": "Can view deportes",
+        "content_type": 8,
+        "codename": "view_deportes"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+        "name": "Can add equipos",
+        "content_type": 9,
+        "codename": "add_equipos"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+        "name": "Can change equipos",
+        "content_type": 9,
+        "codename": "change_equipos"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+        "name": "Can delete equipos",
+        "content_type": 9,
+        "codename": "delete_equipos"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+        "name": "Can view equipos",
+        "content_type": 9,
+        "codename": "view_equipos"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+        "name": "Can add liga",
+        "content_type": 10,
+        "codename": "add_liga"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+        "name": "Can change liga",
+        "content_type": 10,
+        "codename": "change_liga"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+        "name": "Can delete liga",
+        "content_type": 10,
+        "codename": "delete_liga"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+        "name": "Can view liga",
+        "content_type": 10,
+        "codename": "view_liga"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+        "name": "Can add usuarios",
+        "content_type": 11,
+        "codename": "add_usuarios"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+        "name": "Can change usuarios",
+        "content_type": 11,
+        "codename": "change_usuarios"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+        "name": "Can delete usuarios",
+        "content_type": 11,
+        "codename": "delete_usuarios"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+        "name": "Can view usuarios",
+        "content_type": 11,
+        "codename": "view_usuarios"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 45,
+    "fields": {
+        "name": "Can add votacion",
+        "content_type": 12,
+        "codename": "add_votacion"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 46,
+    "fields": {
+        "name": "Can change votacion",
+        "content_type": 12,
+        "codename": "change_votacion"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 47,
+    "fields": {
+        "name": "Can delete votacion",
+        "content_type": 12,
+        "codename": "delete_votacion"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 48,
+    "fields": {
+        "name": "Can view votacion",
+        "content_type": 12,
+        "codename": "view_votacion"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 49,
+    "fields": {
+        "name": "Can add ubicacion",
+        "content_type": 13,
+        "codename": "add_ubicacion"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 50,
+    "fields": {
+        "name": "Can change ubicacion",
+        "content_type": 13,
+        "codename": "change_ubicacion"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 51,
+    "fields": {
+        "name": "Can delete ubicacion",
+        "content_type": 13,
+        "codename": "delete_ubicacion"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 52,
+    "fields": {
+        "name": "Can view ubicacion",
+        "content_type": 13,
+        "codename": "view_ubicacion"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 53,
+    "fields": {
+        "name": "Can add rel_ usu_ equi",
+        "content_type": 14,
+        "codename": "add_rel_usu_equi"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 54,
+    "fields": {
+        "name": "Can change rel_ usu_ equi",
+        "content_type": 14,
+        "codename": "change_rel_usu_equi"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 55,
+    "fields": {
+        "name": "Can delete rel_ usu_ equi",
+        "content_type": 14,
+        "codename": "delete_rel_usu_equi"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 56,
+    "fields": {
+        "name": "Can view rel_ usu_ equi",
+        "content_type": 14,
+        "codename": "view_rel_usu_equi"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 57,
+    "fields": {
+        "name": "Can add rel_ equi_ ubi",
+        "content_type": 15,
+        "codename": "add_rel_equi_ubi"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 58,
+    "fields": {
+        "name": "Can change rel_ equi_ ubi",
+        "content_type": 15,
+        "codename": "change_rel_equi_ubi"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 59,
+    "fields": {
+        "name": "Can delete rel_ equi_ ubi",
+        "content_type": 15,
+        "codename": "delete_rel_equi_ubi"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 60,
+    "fields": {
+        "name": "Can view rel_ equi_ ubi",
+        "content_type": 15,
+        "codename": "view_rel_equi_ubi"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 61,
+    "fields": {
+        "name": "Can add rel_ dep_ ubi",
+        "content_type": 16,
+        "codename": "add_rel_dep_ubi"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 62,
+    "fields": {
+        "name": "Can change rel_ dep_ ubi",
+        "content_type": 16,
+        "codename": "change_rel_dep_ubi"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 63,
+    "fields": {
+        "name": "Can delete rel_ dep_ ubi",
+        "content_type": 16,
+        "codename": "delete_rel_dep_ubi"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 64,
+    "fields": {
+        "name": "Can view rel_ dep_ ubi",
+        "content_type": 16,
+        "codename": "view_rel_dep_ubi"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 65,
+    "fields": {
+        "name": "Can add perfil_ publico",
+        "content_type": 17,
+        "codename": "add_perfil_publico"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 66,
+    "fields": {
+        "name": "Can change perfil_ publico",
+        "content_type": 17,
+        "codename": "change_perfil_publico"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 67,
+    "fields": {
+        "name": "Can delete perfil_ publico",
+        "content_type": 17,
+        "codename": "delete_perfil_publico"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 68,
+    "fields": {
+        "name": "Can view perfil_ publico",
+        "content_type": 17,
+        "codename": "view_perfil_publico"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 69,
+    "fields": {
+        "name": "Can add partido",
+        "content_type": 18,
+        "codename": "add_partido"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 70,
+    "fields": {
+        "name": "Can change partido",
+        "content_type": 18,
+        "codename": "change_partido"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 71,
+    "fields": {
+        "name": "Can delete partido",
+        "content_type": 18,
+        "codename": "delete_partido"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 72,
+    "fields": {
+        "name": "Can view partido",
+        "content_type": 18,
+        "codename": "view_partido"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 73,
+    "fields": {
+        "name": "Can add entrenador",
+        "content_type": 19,
+        "codename": "add_entrenador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 74,
+    "fields": {
+        "name": "Can change entrenador",
+        "content_type": 19,
+        "codename": "change_entrenador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 75,
+    "fields": {
+        "name": "Can delete entrenador",
+        "content_type": 19,
+        "codename": "delete_entrenador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 76,
+    "fields": {
+        "name": "Can view entrenador",
+        "content_type": 19,
+        "codename": "view_entrenador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 77,
+    "fields": {
+        "name": "Can add detalles_ ubicacion",
+        "content_type": 20,
+        "codename": "add_detalles_ubicacion"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 78,
+    "fields": {
+        "name": "Can change detalles_ ubicacion",
+        "content_type": 20,
+        "codename": "change_detalles_ubicacion"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 79,
+    "fields": {
+        "name": "Can delete detalles_ ubicacion",
+        "content_type": 20,
+        "codename": "delete_detalles_ubicacion"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 80,
+    "fields": {
+        "name": "Can view detalles_ ubicacion",
+        "content_type": 20,
+        "codename": "view_detalles_ubicacion"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 81,
+    "fields": {
+        "name": "Can add application",
+        "content_type": 21,
+        "codename": "add_application"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 82,
+    "fields": {
+        "name": "Can change application",
+        "content_type": 21,
+        "codename": "change_application"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 83,
+    "fields": {
+        "name": "Can delete application",
+        "content_type": 21,
+        "codename": "delete_application"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 84,
+    "fields": {
+        "name": "Can view application",
+        "content_type": 21,
+        "codename": "view_application"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 85,
+    "fields": {
+        "name": "Can add access token",
+        "content_type": 22,
+        "codename": "add_accesstoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 86,
+    "fields": {
+        "name": "Can change access token",
+        "content_type": 22,
+        "codename": "change_accesstoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 87,
+    "fields": {
+        "name": "Can delete access token",
+        "content_type": 22,
+        "codename": "delete_accesstoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 88,
+    "fields": {
+        "name": "Can view access token",
+        "content_type": 22,
+        "codename": "view_accesstoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 89,
+    "fields": {
+        "name": "Can add grant",
+        "content_type": 23,
+        "codename": "add_grant"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 90,
+    "fields": {
+        "name": "Can change grant",
+        "content_type": 23,
+        "codename": "change_grant"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 91,
+    "fields": {
+        "name": "Can delete grant",
+        "content_type": 23,
+        "codename": "delete_grant"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 92,
+    "fields": {
+        "name": "Can view grant",
+        "content_type": 23,
+        "codename": "view_grant"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 93,
+    "fields": {
+        "name": "Can add refresh token",
+        "content_type": 24,
+        "codename": "add_refreshtoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 94,
+    "fields": {
+        "name": "Can change refresh token",
+        "content_type": 24,
+        "codename": "change_refreshtoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 95,
+    "fields": {
+        "name": "Can delete refresh token",
+        "content_type": 24,
+        "codename": "delete_refreshtoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 96,
+    "fields": {
+        "name": "Can view refresh token",
+        "content_type": 24,
+        "codename": "view_refreshtoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 97,
+    "fields": {
+        "name": "Can add id token",
+        "content_type": 25,
+        "codename": "add_idtoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 98,
+    "fields": {
+        "name": "Can change id token",
+        "content_type": 25,
+        "codename": "change_idtoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 99,
+    "fields": {
+        "name": "Can delete id token",
+        "content_type": 25,
+        "codename": "delete_idtoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 100,
+    "fields": {
+        "name": "Can view id token",
+        "content_type": 25,
+        "codename": "view_idtoken"
+    }
+},
+{
+    "model": "auth.group",
+    "pk": 1,
+    "fields": {
+        "name": "admin",
+        "permissions": [
+            1,
+            2,
+            3,
+            4,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            77,
+            78,
+            79,
+            80,
+            73,
+            74,
+            75,
+            76,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            69,
+            70,
+            71,
+            72,
+            65,
+            66,
+            67,
+            68,
+            61,
+            62,
+            63,
+            64,
+            57,
+            58,
+            59,
+            60,
+            53,
+            54,
+            55,
+            56,
+            49,
+            50,
+            51,
+            52,
+            21,
+            22,
+            23,
+            24,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            9,
+            10,
+            11,
+            12,
+            5,
+            6,
+            7,
+            8,
+            13,
+            14,
+            15,
+            16,
+            85,
+            86,
+            87,
+            88,
+            81,
+            82,
+            83,
+            84,
+            89,
+            90,
+            91,
+            92,
+            97,
+            98,
+            99,
+            100,
+            93,
+            94,
+            95,
+            96,
+            17,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "auth.group",
+    "pk": 2,
+    "fields": {
+        "name": "entrenador",
+        "permissions": [
+            25,
+            26,
+            28,
+            29,
+            30,
+            32,
+            77,
+            78,
+            80,
+            73,
+            74,
+            76,
+            33,
+            34,
+            36,
+            37,
+            38,
+            40,
+            69,
+            70,
+            72,
+            65,
+            66,
+            68,
+            61,
+            62,
+            64,
+            57,
+            58,
+            60,
+            53,
+            54,
+            56,
+            49,
+            50,
+            52,
+            21,
+            22,
+            24,
+            41,
+            42,
+            44,
+            45,
+            46,
+            48
+        ]
+    }
+},
+{
+    "model": "auth.group",
+    "pk": 3,
+    "fields": {
+        "name": "cliente",
+        "permissions": [
+            28,
+            32,
+            80,
+            76,
+            36,
+            40,
+            72,
+            68,
+            64,
+            60,
+            56,
+            52,
+            24,
+            44,
+            48
+        ]
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+        "app_label": "admin",
+        "model": "logentry"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+        "app_label": "auth",
+        "model": "permission"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+        "app_label": "auth",
+        "model": "group"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+        "app_label": "contenttypes",
+        "model": "contenttype"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+        "app_label": "sessions",
+        "model": "session"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+        "app_label": "app",
+        "model": "userlogin"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+        "app_label": "app",
+        "model": "colores"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+        "app_label": "app",
+        "model": "deportes"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+        "app_label": "app",
+        "model": "equipos"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+        "app_label": "app",
+        "model": "liga"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 11,
+    "fields": {
+        "app_label": "app",
+        "model": "usuarios"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 12,
+    "fields": {
+        "app_label": "app",
+        "model": "votacion"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 13,
+    "fields": {
+        "app_label": "app",
+        "model": "ubicacion"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 14,
+    "fields": {
+        "app_label": "app",
+        "model": "rel_usu_equi"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 15,
+    "fields": {
+        "app_label": "app",
+        "model": "rel_equi_ubi"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 16,
+    "fields": {
+        "app_label": "app",
+        "model": "rel_dep_ubi"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 17,
+    "fields": {
+        "app_label": "app",
+        "model": "perfil_publico"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 18,
+    "fields": {
+        "app_label": "app",
+        "model": "partido"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 19,
+    "fields": {
+        "app_label": "app",
+        "model": "entrenador"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 20,
+    "fields": {
+        "app_label": "app",
+        "model": "detalles_ubicacion"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 21,
+    "fields": {
+        "app_label": "oauth2_provider",
+        "model": "application"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 22,
+    "fields": {
+        "app_label": "oauth2_provider",
+        "model": "accesstoken"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 23,
+    "fields": {
+        "app_label": "oauth2_provider",
+        "model": "grant"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 24,
+    "fields": {
+        "app_label": "oauth2_provider",
+        "model": "refreshtoken"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 25,
+    "fields": {
+        "app_label": "oauth2_provider",
+        "model": "idtoken"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "cyyvy9uptepw1vvfbgo4ldfrriyknum6",
+    "fields": {
+        "session_data": ".eJxVjMEOgjAQRP-lZ9PQpdtSj975hma3XSxqIKFwMv67kHDQ22Tem3mrSNta4lZliWNWV2XU5bdjSk-ZDpAfNN1nneZpXUbWh6JPWnU_Z3ndTvfvoFAt-9o6EoAOvA2-yRhwGKhDg2AYm5CCBTEUWkxemJ3Hlj34zCzkzB5Afb6--DdI:1rhPlD:cq6M9fnXvfn1HfbbKBvCJheiLJJMPxmdASSuse9Vczo",
+        "expire_date": "2024-03-19T08:02:51.905Z"
+    }
+},
+{
+    "model": "app.userlogin",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$600000$gXgVJa5DpSpUE7ug8IeOvW$3Px5Gb9Aj0WLahhxVlBKKMUgQ1upC7hAM7EGx17aptw=",
+        "last_login": "2024-03-05T08:02:51.820Z",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "admin@a.es",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2024-03-05T08:02:06.635Z",
+        "rol": 1,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "app.userlogin",
+    "pk": 2,
+    "fields": {
+        "password": "ivan",
+        "last_login": "2024-03-05T08:12:09Z",
+        "is_superuser": false,
+        "username": "IvanGuerra",
+        "first_name": "Ivan",
+        "last_name": "Guerra",
+        "email": "ivan@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2024-03-05T08:12:02Z",
+        "rol": 3,
+        "groups": [
+            2
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "app.userlogin",
+    "pk": 3,
+    "fields": {
+        "password": "ivan",
+        "last_login": "2024-03-05T08:13:26Z",
+        "is_superuser": false,
+        "username": "Lebron",
+        "first_name": "Alejandor",
+        "last_name": "Mejias",
+        "email": "mejia@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2024-03-05T08:13:10Z",
+        "rol": 3,
+        "groups": [
+            2
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "app.userlogin",
+    "pk": 4,
+    "fields": {
+        "password": "jugador1",
+        "last_login": "2024-03-05T08:14:11Z",
+        "is_superuser": false,
+        "username": "jugador1",
+        "first_name": "jugador",
+        "last_name": "1",
+        "email": "1@gm.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2024-03-05T08:14:02Z",
+        "rol": 2,
+        "groups": [
+            3
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "app.userlogin",
+    "pk": 5,
+    "fields": {
+        "password": "jugador2",
+        "last_login": "2024-03-05T08:14:42Z",
+        "is_superuser": false,
+        "username": "jugador2",
+        "first_name": "jugador",
+        "last_name": "2",
+        "email": "2@gm.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2024-03-05T08:14:36Z",
+        "rol": 2,
+        "groups": [
+            3
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "app.userlogin",
+    "pk": 6,
+    "fields": {
+        "password": "jugador3",
+        "last_login": "2024-03-05T08:15:06Z",
+        "is_superuser": false,
+        "username": "jugador3",
+        "first_name": "jugador",
+        "last_name": "3",
+        "email": "3@gm.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2024-03-05T08:15:01Z",
+        "rol": 2,
+        "groups": [
+            3
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "app.usuarios",
+    "pk": 1,
+    "fields": {
+        "edad": 23,
+        "media": 86,
+        "sexo": "MAS",
+        "rol": 2
+    }
+},
+{
+    "model": "app.usuarios",
+    "pk": 2,
+    "fields": {
+        "edad": 29,
+        "media": 65,
+        "sexo": "MAS",
+        "rol": 3
+    }
+},
+{
+    "model": "app.usuarios",
+    "pk": 3,
+    "fields": {
+        "edad": 32,
+        "media": 81,
+        "sexo": "MAS",
+        "rol": 4
+    }
+},
+{
+    "model": "app.usuarios",
+    "pk": 4,
+    "fields": {
+        "edad": 25,
+        "media": 26,
+        "sexo": "MAS",
+        "rol": 5
+    }
+},
+{
+    "model": "app.usuarios",
+    "pk": 5,
+    "fields": {
+        "edad": 45,
+        "media": 43,
+        "sexo": "MAS",
+        "rol": 6
+    }
+},
+{
+    "model": "app.deportes",
+    "pk": 1,
+    "fields": {
+        "deporte": "FUT"
+    }
+},
+{
+    "model": "app.deportes",
+    "pk": 2,
+    "fields": {
+        "deporte": "BSK"
+    }
+},
+{
+    "model": "app.deportes",
+    "pk": 3,
+    "fields": {
+        "deporte": "PDL"
+    }
+},
+{
+    "model": "app.deportes",
+    "pk": 4,
+    "fields": {
+        "deporte": "---"
+    }
+},
+{
+    "model": "app.liga",
+    "pk": 1,
+    "fields": {
+        "liga": "2ªReg"
+    }
+},
+{
+    "model": "app.liga",
+    "pk": 2,
+    "fields": {
+        "liga": "1ºReg"
+    }
+},
+{
+    "model": "app.liga",
+    "pk": 3,
+    "fields": {
+        "liga": "DivHonor"
+    }
+},
+{
+    "model": "app.liga",
+    "pk": 4,
+    "fields": {
+        "liga": "Nacional"
+    }
+},
+{
+    "model": "app.liga",
+    "pk": 5,
+    "fields": {
+        "liga": "---"
+    }
+},
+{
+    "model": "app.colores",
+    "pk": 1,
+    "fields": {
+        "color": "Blanco"
+    }
+},
+{
+    "model": "app.colores",
+    "pk": 2,
+    "fields": {
+        "color": "Negro"
+    }
+},
+{
+    "model": "app.colores",
+    "pk": 3,
+    "fields": {
+        "color": "Amarillo"
+    }
+},
+{
+    "model": "app.colores",
+    "pk": 4,
+    "fields": {
+        "color": "Rojo"
+    }
+},
+{
+    "model": "app.colores",
+    "pk": 5,
+    "fields": {
+        "color": "Azul"
+    }
+},
+{
+    "model": "app.colores",
+    "pk": 6,
+    "fields": {
+        "color": "Rosa"
+    }
+},
+{
+    "model": "app.colores",
+    "pk": 7,
+    "fields": {
+        "color": "Morado"
+    }
+},
+{
+    "model": "app.colores",
+    "pk": 8,
+    "fields": {
+        "color": "Verde"
+    }
+},
+{
+    "model": "app.colores",
+    "pk": 9,
+    "fields": {
+        "color": "Gris"
+    }
+},
+{
+    "model": "app.colores",
+    "pk": 10,
+    "fields": {
+        "color": "Marron"
+    }
+},
+{
+    "model": "app.colores",
+    "pk": 11,
+    "fields": {
+        "color": "Naranja"
+    }
+},
+{
+    "model": "app.colores",
+    "pk": 12,
+    "fields": {
+        "color": "---"
+    }
+},
+{
+    "model": "app.equipos",
+    "pk": 1,
+    "fields": {
+        "nombre": "Maria Zambrano Rosa",
+        "capacidad": 15,
+        "color_eq_1": 2,
+        "color_eq_2": 6,
+        "deporte": 2,
+        "liga": 2
+    }
+},
+{
+    "model": "app.equipos",
+    "pk": 2,
+    "fields": {
+        "nombre": "Maria Zambrano Azul",
+        "capacidad": 15,
+        "color_eq_1": 2,
+        "color_eq_2": 5,
+        "deporte": 2,
+        "liga": 1
+    }
+},
+{
+    "model": "app.equipos",
+    "pk": 3,
+    "fields": {
+        "nombre": "Maria Zambrano Negro",
+        "capacidad": 15,
+        "color_eq_1": 2,
+        "color_eq_2": 1,
+        "deporte": 2,
+        "liga": 1
+    }
+},
+{
+    "model": "app.equipos",
+    "pk": 4,
+    "fields": {
+        "nombre": "Maria Zambrano Fem",
+        "capacidad": 15,
+        "color_eq_1": 2,
+        "color_eq_2": 7,
+        "deporte": 2,
+        "liga": 2
+    }
+},
+{
+    "model": "app.ubicacion",
+    "pk": 1,
+    "fields": {
+        "nombre": "Pabellon Poligono Sur",
+        "capacidad": 120,
+        "calle": "C. Reina de la Paz",
+        "lat": 37.364331,
+        "lng": -5963783.0,
+        "equipo": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "deporte": [
+            1,
+            2,
+            3
+        ]
+    }
+},
+{
+    "model": "app.ubicacion",
+    "pk": 2,
+    "fields": {
+        "nombre": "Infantas",
+        "capacidad": 24,
+        "calle": "C. Luis Cernuda",
+        "lat": 37.294652,
+        "lng": -5931507.0,
+        "equipo": [
+            1,
+            2
+        ],
+        "deporte": [
+            1,
+            2
+        ]
+    }
+},
+{
+    "model": "app.ubicacion",
+    "pk": 3,
+    "fields": {
+        "nombre": "Complejo Deportivo Municipal de Ramón y Cajal",
+        "capacidad": 60,
+        "calle": "C. Tirso de Molina",
+        "lat": 37.293753,
+        "lng": -5926366.0,
+        "equipo": [
+            1,
+            3
+        ],
+        "deporte": [
+            1,
+            2,
+            3
+        ]
+    }
+},
+{
+    "model": "app.detalles_ubicacion",
+    "pk": 1,
+    "fields": {
+        "ubicacion": 1,
+        "incidentes": true,
+        "cubierto": true
+    }
+},
+{
+    "model": "app.detalles_ubicacion",
+    "pk": 2,
+    "fields": {
+        "ubicacion": 2,
+        "incidentes": true,
+        "cubierto": false
+    }
+},
+{
+    "model": "app.detalles_ubicacion",
+    "pk": 3,
+    "fields": {
+        "ubicacion": 3,
+        "incidentes": false,
+        "cubierto": true
+    }
+},
+{
+    "model": "app.rel_usu_equi",
+    "pk": 1,
+    "fields": {
+        "usuario": 1,
+        "equipos": 1
+    }
+},
+{
+    "model": "app.rel_usu_equi",
+    "pk": 2,
+    "fields": {
+        "usuario": 2,
+        "equipos": 2
+    }
+},
+{
+    "model": "app.rel_usu_equi",
+    "pk": 3,
+    "fields": {
+        "usuario": 1,
+        "equipos": 3
+    }
+},
+{
+    "model": "app.rel_usu_equi",
+    "pk": 4,
+    "fields": {
+        "usuario": 3,
+        "equipos": 1
+    }
+},
+{
+    "model": "app.rel_usu_equi",
+    "pk": 5,
+    "fields": {
+        "usuario": 4,
+        "equipos": 2
+    }
+},
+{
+    "model": "app.rel_usu_equi",
+    "pk": 6,
+    "fields": {
+        "usuario": 5,
+        "equipos": 2
+    }
+}
+]
